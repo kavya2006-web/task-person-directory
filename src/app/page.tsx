@@ -11,7 +11,7 @@ export default function Home() {
             Person Directory
           </h1>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            Click on any person's name below to view their detailed information and profile.
+            Click on any person&apos;s name below to view their detailed information and profile.
           </p>
         </header>
 

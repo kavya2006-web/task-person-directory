@@ -10,6 +10,7 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/) (version 18 or higher)
 - [Git](https://git-scm.com/)
 - A code editor like [VS Code](https://code.visualstudio.com/)
+- Git and Github
 
 ## 🎯 How to Add Your Profile
 
@@ -17,12 +18,12 @@ Follow these steps to add your name and create your own profile page:
 
 ### Step 1: Fork and Clone the Repository
 
-1. Go to the [repository page](https://github.com/mulearnucek/person-directory)
+1. Go to the [repository page](https://github.com/mulearnucek/task-person-directory)
 2. Click the "Fork" button in the top-right corner to fork it to your account
 3. Clone **your forked repository**:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/person-directory.git
+git clone https://github.com/YOUR_USERNAME/task-person-directory.git
 cd person-directory
 npm install
 npm run dev

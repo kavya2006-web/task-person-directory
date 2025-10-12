@@ -10,7 +10,6 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/) (version 18 or higher)
 - [Git](https://git-scm.com/)
 - A code editor like [VS Code](https://code.visualstudio.com/)
-- Git and Github
 
 ## 🎯 How to Add Your Profile
 
@@ -45,11 +44,8 @@ npm run dev
 mkdir src/app/your-name-here
 ```
 
-2. Create a `page.tsx` file inside your folder:
-
-```bash
-touch src/app/your-name-here/page.tsx
-```
+2. Create a folder with your name (with no spaces) and create `page.tsx` file inside the folder.
+        src/app/your-name-here/page.tsx
 
 3. Copy this template into your `page.tsx` file:
 
@@ -193,7 +189,7 @@ git push origin main
 ## 📝 Example
 
 Check out the existing example:
-- **David Brown** - Computer Science Student ([/david-brown](http://localhost:3000/david-brown))
+- **David Brown** - Computer Science Student ([/david-brown](https://person-directory-beta.vercel.app/david-brown))
 
 ## 🎨 Customization Tips
 
@@ -202,21 +198,11 @@ Check out the existing example:
 - **Sections**: Feel free to add more sections like "Projects", "Education", etc.
 - **Styling**: The project uses Tailwind CSS for styling
 
-## 🤝 Contributing Guidelines
-
-1. Fork the repository
-2. Create a new branch for your changes (optional but recommended)
-3. Follow the naming convention: use lowercase letters and hyphens for folder names
-4. Make sure your code follows the existing style
-5. Test your changes locally before submitting
-6. Create a meaningful pull request description
-
 ## 🛠️ Tech Stack
 
 - **Framework**: Next.js 15
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
-- **Deployment**: Vercel (recommended)
 
 ## 📧 Need Help?
 
@@ -226,13 +212,6 @@ If you encounter any issues or need help adding your profile:
 2. Make sure you're following the exact file structure
 3. Verify that your folder name matches the href in your card
 4. Open an issue in the repository if you're still stuck
-
-## 🌟 What's Next?
-
-After your pull request is merged, your profile will be live on the main site! You can then:
-- Share your profile page with others
-- Update your information anytime by creating another pull request
-- Help others add their profiles too
 
 ---
 

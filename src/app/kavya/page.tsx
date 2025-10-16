@@ -72,7 +72,7 @@ Currently, I’m working on personal web projects that help me sharpen my front-
                 <div className="space-y-3">
                   <div className="flex items-center space-x-3">
                     <span className="text-gray-600 dark:text-gray-400">📧</span>
-                    <span className="text-gray-700 dark:text-gray-300">your.email@example.com</span>
+                    <span className="text-gray-700 dark:text-gray-300">kavyanandakumarnair@gmail.com</span>
                   </div>
                   <div className="flex items-center space-x-3">
                     <span className="text-gray-600 dark:text-gray-400">🔗</span>
